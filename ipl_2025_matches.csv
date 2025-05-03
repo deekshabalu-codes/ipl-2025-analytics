@@ -1,1 +1,11 @@
-Match Date, Toss Winner, Match Winner, Team1, Team2, Venue, Runs_Team1, Runs_Team2, Wickets_Team1, Wickets_Team2, Player_Stats
+Match Date	 Toss Winner	 Match Winner	 Team1	 Team2	 Venue	 Runs_Team1	 Runs_Team2	 Wickets_Team1	 Wickets_Team2	 Player_Stats
+23-03-2025	SRH	KKR	SRH	KKR	Hyderabad	166	193	6	5	Virat Kohli: 31 runs
+24-03-2025	RCB	CSK	RCB	CSK	Bangalore	151	151	5	3	David Warner: 45 runs
+25-03-2025	CSK	KKR	KKR	CSK	Kolkata	129	152	3	9	Rohit Sharma: 69 runs
+26-03-2025	SRH	KKR	SRH	KKR	Hyderabad	175	209	6	3	Virat Kohli: 67 runs
+27-03-2025	GT	SRH	GT	SRH	Ahmedabad	153	168	9	6	KL Rahul: 76 runs
+28-03-2025	PBKS	PBKS	GT	PBKS	Ahmedabad	173	157	8	9	Jos Buttler: 53 runs
+29-03-2025	MI	LSG	LSG	MI	Lucknow	132	138	9	7	MS Dhoni: 94 runs
+30-03-2025	RCB	CSK	CSK	RCB	Chennai	173	203	10	3	KL Rahul: 99 runs
+31-03-2025	RR	RR	LSG	RR	Lucknow	147	201	7	10	Hardik Pandya: 97 runs
+01-04-2025	RCB	DC	DC	RCB	Delhi	212	157	10	8	Hardik Pandya: 65 runs
